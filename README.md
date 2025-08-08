@@ -2,7 +2,7 @@
 <center><img alt="mod preview" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png"/></center>
 
 <center>
-A short quick summary of this mod
+Adds Boomerangs to Minecraft!
 </center>
 
 ---
