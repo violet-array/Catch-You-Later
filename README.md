@@ -2,13 +2,13 @@
 <center><img alt="mod preview" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png"/></center>
 
 <center>
-A short quick summary of this mod
+Adds Boomerangs to Minecraft!
 </center>
 
 ---
 
-A long description of your mod, including 
-- Dot point lists of all features
+Boomerangs are a tool for gathering weapons and an early-game weapon used for stunning enemies!
+* Stunning can be used to stop creepers from exploding.
 
 `path/to/config/files` if you have them
 
